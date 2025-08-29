@@ -1,6 +1,5 @@
 #carouselExampleAutoplaying .carousel-item img {
     height: 220px;
-    object-fit: cover;
 }
 
 @media (min-width: 768px) {
@@ -17,7 +16,6 @@
 
 .Slider .card img {
     height: 110px;
-    object-fit: cover;
 }
 
 @media (min-width: 768px) {
@@ -34,7 +32,6 @@
 
 #carouselExampleCaptions .carousel-item img {
     height: 220px;
-    object-fit: cover;
 }
 
 @media (min-width: 768px) {
@@ -45,7 +42,6 @@
 
 .posts .card .col-md-4 img {
     max-height: 160px;
-    object-fit: cover;
 }
 
 @media (max-width: 768px) {
@@ -61,5 +57,4 @@
 
 .newCollection img {
     height: 220px;
-    object-fit: cover;
 }
