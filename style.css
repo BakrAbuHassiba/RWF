@@ -1,0 +1,65 @@
+#carouselExampleAutoplaying .carousel-item img {
+    height: 220px;
+    object-fit: cover;
+}
+
+@media (min-width: 768px) {
+    #carouselExampleAutoplaying .carousel-item img {
+        height: 340px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #carouselExampleAutoplaying .carousel-item img {
+        height: 450px;
+    }
+}
+
+.Slider .card img {
+    height: 110px;
+    object-fit: cover;
+}
+
+@media (min-width: 768px) {
+    .Slider .card img {
+        height: 130px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .Slider .card img {
+        height: 150px;
+    }
+}
+
+#carouselExampleCaptions .carousel-item img {
+    height: 220px;
+    object-fit: cover;
+}
+
+@media (min-width: 768px) {
+    #carouselExampleCaptions .carousel-item img {
+        height: 300px;
+    }
+}
+
+.posts .card .col-md-4 img {
+    max-height: 160px;
+    object-fit: cover;
+}
+
+@media (max-width: 768px) {
+    .posts .card .col-md-4 img {
+        max-height: 240px;
+    }
+}
+
+.installment-img {
+    max-height: 180px;
+    object-fit: contain;
+}
+
+.newCollection img {
+    height: 220px;
+    object-fit: cover;
+}
